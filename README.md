@@ -1,4 +1,4 @@
-# Complete-Tensorflow-and-Keras-with-Projects-Series
+# Complete Tensorflow and Keras with Projects Series
 This repository contains everything you need to become proficient in Tensorflow and Keras
 
 ![keras-tensorflow-logo](https://user-images.githubusercontent.com/104568275/210071638-f23fa07e-a71f-481f-8b37-28f2efb9cf9c.jpeg)
